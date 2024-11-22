@@ -1,0 +1,49 @@
+name: karolyn.thompson
+description: Total
+version: 0.0.1
+author: b5gqlqsg.ndxyscnj@hioa3mw3.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: karolynthompson
+  parentArtefactID: team1732316968720
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:09:58'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:09:59'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:09:59.333916Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '411651223'
+  createdAt: '2024-11-22T23:09:59.333916Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
